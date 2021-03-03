@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dks0584182/Documents/Heroku/ScheduledCallerClient/ScheduledCallerClient.csproj": {}
+  },
+  "projects": {
+    "/Users/dks0584182/Documents/Heroku/ScheduledCallerClient/ScheduledCallerClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dks0584182/Documents/Heroku/ScheduledCallerClient/ScheduledCallerClient.csproj",
+        "projectName": "ScheduledCallerClient",
+        "projectPath": "/Users/dks0584182/Documents/Heroku/ScheduledCallerClient/ScheduledCallerClient.csproj",
+        "packagesPath": "/Users/dks0584182/.nuget/packages/",
+        "outputPath": "/Users/dks0584182/Documents/Heroku/ScheduledCallerClient/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dks0584182/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/dsg-tech/index.json": {},
+          "https://pkgs.dev.azure.com/dsg-store-marketing/_packaging/dsg-store-marketing/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "RestEase": {
+              "target": "Package",
+              "version": "[1.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

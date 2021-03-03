@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xL4wF2MaeeNO+zRks5DV+HabwlkDWfMLJRe1DJyeZNnPbwJWC4aseloC1SWgpHcWXWHVUnMgQxCVMf67Bn0Iig==",
+  "success": true,
+  "projectFilePath": "/Users/dks0584182/Documents/Heroku/ScheduledCallerClient/ScheduledCallerClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/dks0584182/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/Users/dks0584182/.nuget/packages/restease/1.5.2/restease.1.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
