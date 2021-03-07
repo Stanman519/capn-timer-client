@@ -14,6 +14,7 @@ namespace ScheduledCallerClient
             IGMBotAPI gmApi =
                 RestClient.For<IGMBotAPI>("https://capn-crunch-gm-bot.herokuapp.com/Bot/");
             var time = DateTime.Now;
+            Console.WriteLine("Yo, WE OUT HERE!");
             
             var gmBotWatch = new Stopwatch();
             var transactionWatch = new Stopwatch();
