@@ -1,1 +1,1 @@
-worker: dotnet Program.cs
+worker: dotnet run
