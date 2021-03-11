@@ -1,1 +1,1 @@
-worker: jobs: work
+worker: node Program.cs
